@@ -1,11 +1,12 @@
 # CMPUT 301: Lab 8 Participation Exercise
 
 ## Student Details
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Cris Peng
+- **CCID:** meiwen
 
 ## References and Resources
-List any resources used here, or simply put `N/A` if not applicable.
+- [Lab 8 instructions](lab-08-description.md) and provided starter code.
+- OpenAI Codex: assistance with implementation, unit tests, and local verification.
 
 ## Verbal Collaboration
-List students' names and CCIDs here, or simply put `N/A` if not applicable. 
+Pending student confirmation.

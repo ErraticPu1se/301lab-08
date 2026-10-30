@@ -5,8 +5,7 @@
 - **CCID:** meiwen
 
 ## References and Resources
-- [Lab 8 instructions](lab-08-description.md) and provided starter code.
-- OpenAI Codex: assistance with implementation, unit tests, and local verification.
+- asked chatGPT for error happened in testing and how to resolve the bug.
 
 ## Verbal Collaboration
-Pending student confirmation.
+with my friend chandler, ccid deming1
